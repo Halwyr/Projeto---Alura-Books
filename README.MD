@@ -35,9 +35,13 @@ O site foi desenvolvido seguindo a abordagem **mobile-first**, garantindo que a 
 
 ## 🚀 Funcionalidades Implementadas
 ✔️ Menu de navegação responsivo
+
 ✔️ Carrossel de livros dinâmico (Swiper.js)
+
 ✔️ Seção de categorias e recomendações
+
 ✔️ Campo de busca para livros
+
 ✔️ Formulário para inscrição de novidades
 
 ## 🏗️ Aprendizados e Desafios
