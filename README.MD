@@ -48,5 +48,4 @@ O site foi desenvolvido seguindo a abordagem **mobile-first**, garantindo que a 
 Durante o desenvolvimento deste projeto, foi possível reforçar conceitos essenciais, como:
 - Uso eficiente de **@media queries** para adaptação de layout
 - Organização modular de **CSS** com arquivos separados por seções
-- Implementação de interações dinâmicas com **JavaScript**
 - Uso da biblioteca **Swiper.js** para criar um carrossel responsivo e intuitivo
